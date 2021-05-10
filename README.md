@@ -1,4 +1,4 @@
-# django-the-rapper
+# django-the-rapper (Simple django rest full API)
 
 this repository is inspired by [dookie1983/the-rapper-api-workshop](https://github.com/dookie1983/the-rapper-api-workshop/)
 
